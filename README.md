@@ -1,2 +1,5 @@
 # FalloutdAY2
-The Fallout Day 2 PCB!!!!
+
+## What is this?
+
+This is a PCB I made on the 2nd day of Fallout. A HackClub Hackathon in Shenzhen, China.
