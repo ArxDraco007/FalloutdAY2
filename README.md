@@ -1,5 +1,5 @@
-# FalloutdAY2
+# SoupPCB 
 
 ## What is this?
 
-This is a PCB I made on the 2nd day of Fallout. A HackClub Hackathon in Shenzhen, China.
+This is Soup, a memorable character from Shenzhen China. I made a PCB design of Soup, that can communicate using morse code. 
